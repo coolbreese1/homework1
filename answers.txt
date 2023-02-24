@@ -1,0 +1,2 @@
+What is a remote repository?
+- Projects are hosted on a network or server that others may have access to
